@@ -1,5 +1,7 @@
-<!-- background image -->
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);May all the beauty be blessed&center=true&size=27"> </a> </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=May all the beauty be blessed!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 ### Hi there 👋 This is traveller Potato Juice
 
