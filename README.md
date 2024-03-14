@@ -17,7 +17,12 @@
 
 :notes: Enjoy doing calligraphy and singing in spare time
 
-![](https://github-readme-stats.vercel.app/api?username=travellerPotatoJuice&show_icons=true&theme=radical)
-
+<a href="https://github.com/travellerPotatoJuice">
+<img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=travellerPotatoJuice&show_icons=true&theme=radical" />
+</a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/travellerPotatoJuice">
+<img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travellerPotatoJuice&layout=compact&title_color=904e95&text_color=904e95&border_color=904e95&bg_color=00000000&border_radius=6" />
+</a>
 
 
